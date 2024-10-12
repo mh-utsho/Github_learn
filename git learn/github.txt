@@ -1,0 +1,25 @@
+// first you want to login from terminal
+    
+    1.   gh auth login
+
+         GitHub.com -> HTTPS -> Yes ->  Paste an authentication token
+              // the you need authentication token of your account
+    2. gh repo create repo_name --public/private
+    
+    // go the folder
+    
+    
+    3. git init
+    
+    4. git add .
+    
+    5. git commit -m "Initial commit" 
+     
+    (faceing some problem in push// 
+       6. git remote add origin https://github.com/mh-utsho/repo_name.git
+       
+     7.git branch -M main
+     
+     8.git push origin main
+
+
